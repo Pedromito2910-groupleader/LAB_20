@@ -1,2 +1,2 @@
-# LAB_20
+# Visibility
 ## Algoritimo que mostra como funciona a visibilidade
